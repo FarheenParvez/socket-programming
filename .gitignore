@@ -1,0 +1,12 @@
+# Compiled binaries
+TCPclient
+TCPserver
+*.o
+*.out
+
+# Build directories
+build/
+
+# Editor and OS files
+.vscode/
+.DS_Store
